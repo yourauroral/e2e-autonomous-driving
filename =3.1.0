@@ -1,8 +1,0 @@
-Looking in indexes: https://pypi.tuna.tsinghua.edu.cn/simple/
-Collecting joblib
-  Using cached https://pypi.tuna.tsinghua.edu.cn/packages/7b/91/984aca2ec129e2757d1e4e3c81c3fcda9d0f85b74670a094cc443d9ee949/joblib-1.5.3-py3-none-any.whl (309 kB)
-Collecting threadpoolctl
-  Using cached https://pypi.tuna.tsinghua.edu.cn/packages/32/d5/f9a850d79b0851d1d4ef6456097579a9005b31fea68726a4ae5f2d82ddd9/threadpoolctl-3.6.0-py3-none-any.whl (18 kB)
-Installing collected packages: threadpoolctl, joblib
-
-Successfully installed joblib-1.5.3 threadpoolctl-3.6.0
