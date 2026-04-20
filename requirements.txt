@@ -1,0 +1,24 @@
+# ===== 核心深度学习 =====
+tensorflow==2.13.0
+numpy==1.24.3
+
+# ===== 数据处理 =====
+pandas==1.5.3
+scikit-learn==1.2.2
+
+# ===== 可视化 =====
+matplotlib==3.7.3
+
+# ===== 计算机视觉 =====
+opencv-python
+
+# ===== Web + 通信（Udacity必备）=====
+flask==2.2.5
+flask-socketio==4.3.1
+python-socketio==4.6.0
+python-engineio==3.13.2
+eventlet
+
+# ===== 其他 =====
+pillow
+protobuf==3.20.*
