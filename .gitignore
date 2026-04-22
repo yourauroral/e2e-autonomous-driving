@@ -8,3 +8,12 @@ data/
 logs/
 .env
 .DS_Store
+
+data_lake/ 
+data_lake.zip
+data_mountain/
+data_mountain.zip
+
+*.h5
+
+wurenjiashi/
